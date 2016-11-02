@@ -17,3 +17,17 @@ adb shell
 toybox nc localhost 11112
 
 Shell is now active type ls
+
+Credits
+
+naikel
+
+cloud1250000
+
+timwr
+
+jcadduono
+
+brenns10
+
+mrmazak
