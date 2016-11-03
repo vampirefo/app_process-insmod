@@ -12,6 +12,8 @@ adb push recowvery-app_process32 /data/local/tmp/recowvery-app_process32
 
 adb shell chmod 0777 /data/local/tmp/*
 
+adb shell /data/local/tmp/dirtycow /system/bin/app_process32 /data/local/tmp/recowvery-app_process32
+
 adb shell
 
 toybox nc localhost 11112
